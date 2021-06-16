@@ -38,4 +38,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ![Img 1].(Test_Poster.png)
 
-![Description].(Img_Name.extension)
+![Description](Img_Name.extension)
+
